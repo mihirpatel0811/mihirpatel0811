@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mihirpatel0811
+- 👋 Hi, I’m Mihir Bhayani
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning B.C.A. (HONS) Cloud Computing 
 <!---
