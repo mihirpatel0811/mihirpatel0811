@@ -38,14 +38,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mihirpatel0811&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mihirpatel0811&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&rank_icon=github" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirpatel0811&layout=compact&theme=tokyonight&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mihirpatel0811&theme=tokyonight&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirpatel0811&theme=tokyonight&hide_border=false" />
 
 </div>
 
