@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Mihir Bhayani
+# Hi, I'm Mihir Bhayani 👋
 
-### 🚀 Passionate Software Developer | MCA Student | Open Source Enthusiast
+### Software Developer • MCA Student • Open Source Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Java+%7C+Python+%7C+Spring+Boot+Enthusiast;Open+Source+Contributor+%F0%9F%8C%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Java+%7C+Python+%7C+Spring+Boot+Enthusiast;Open+Source+Contributor+%F0%9F%8C%B1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header" width="100%"/>
 
 </div>
 
@@ -12,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **BCA Graduate** | 📚 Currently pursuing **MCA**
+- 🎓 **BCA Graduate** &nbsp;|&nbsp; 📚 Currently pursuing **MCA**
 - 💻 Passionate about **Web Development**, **Java**, **Python**, **AI**, and **Database Systems**
 - 🌱 Currently learning **Spring Boot**, **Advanced Java**, and **AI Technologies**
-- 🔥 Building **Real-World Projects** and sharpening **Problem-Solving Skills**
-- ⚡ Love crafting innovative software solutions that make an impact
+- 🔥 Building **real-world projects** and sharpening problem-solving skills
+- ⚡ Love crafting software that makes an impact
 
 ---
 
@@ -26,9 +28,9 @@
 
 | Achievement | Badge | Description |
 |:-----------:|:-----:|:-----------:|
-| 🦈 **Pull Shark** | ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-0969DA?style=for-the-badge&logo=github&logoColor=white) | Successfully merged my first Pull Request |
-| 🚀 **YOLO** | ![YOLO](https://img.shields.io/badge/YOLO-FF6B35?style=for-the-badge&logo=github&logoColor=white) | Merged a PR without a review — living on the edge! |
-| 🌱 **Open Source** | ![Contributor](https://img.shields.io/badge/Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white) | Active & growing open source journey |
+| 🦈 **Pull Shark** | ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-8B5CF6?style=for-the-badge&logo=github&logoColor=white) | Successfully merged my first Pull Request |
+| 🚀 **YOLO** | ![YOLO](https://img.shields.io/badge/YOLO-EC4899?style=for-the-badge&logo=github&logoColor=white) | Merged a PR without a review — living on the edge |
+| 🌱 **Open Source** | ![Contributor](https://img.shields.io/badge/Contributor-06B6D4?style=for-the-badge&logo=github&logoColor=white) | Active & growing open source journey |
 
 </div>
 
@@ -38,14 +40,25 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mihirpatel0811&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirpatel0811&layout=compact&theme=tokyonight&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mihirpatel0811&show_icons=true&theme=radical&count_private=true&hide=contribs&rank_icon=github&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirpatel0811&layout=compact&theme=radical&langs_count=8&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirpatel0811&theme=tokyonight&hide_border=false" />
+<!--
+  FIX: the old herokuapp.com streak-stats URL is dead (Heroku removed free dynos
+  in Nov 2022), which is why the card wasn't rendering. Using the maintained
+  demolab.com mirror below fixes it.
+-->
+<img src="https://streak-stats.demolab.com/?user=mihirpatel0811&theme=radical&hide_border=true&border_radius=10" />
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mihirpatel0811&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -85,12 +98,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mihirpatel0811&theme=tokyo-night)
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -110,8 +117,10 @@
 
 > *"Code • Learn • Build • Repeat"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=mihirpatel0811&color=6DB33F&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=mihirpatel0811&color=A78BFA&style=flat-square&label=Profile+Views)
 
 **Thanks for visiting my profile! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
