@@ -38,12 +38,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mihirpatel0811&show_icons=true&theme=radical&count_private=true&hide=contribs&rank_icon=github&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirpatel0811&layout=compact&theme=radical&langs_count=8&border_radius=10" />
-
-</div>
 
 <div align="center">
 
