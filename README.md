@@ -8,17 +8,35 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header" width="100%"/>
 
+<p align="center">
+  <a href="https://github.com/mihirpatel0811"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mihir-bhayani-6777352b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mihirbhayani0811@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
+  <a href="https://mihir-bhayani-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+</p>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **BCA Graduate** &nbsp;|&nbsp; 📚 Currently pursuing **MCA**
-- 💻 Passionate about **Web Development**, **Java**, **Python**, **AI**, and **Database Systems**
-- 🌱 Currently learning **Spring Boot**, **Advanced Java**, and **AI Technologies**
-- 🔥 Building **real-world projects** and sharpening problem-solving skills
-- ⚡ Love crafting software that makes an impact
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>Hello! I am <strong>Mihir Ritinbhai Bhayani</strong>, an ambitious Full-Stack Developer currently pursuing my <strong>Master of Computer Applications (MCA)</strong> at Dr. D. Y. Patil Vidyapeeth in Pune, India.</p>
+      <p>I specialize in modern web technologies and frameworks, focusing on creating efficient, scalable, and user-centric applications. My approach combines clean code practices with innovative design to deliver exceptional results.</p>
+      <ul>
+        <li>🌐 <strong>Languages:</strong> Native Gujarati, Fluent English & Hindi</li>
+        <li>💡 <strong>Focus Areas:</strong> Full-Stack Systems, Database Optimization, Custom ERP Solutions</li>
+        <li>🚀 <strong>Currently Exploring:</strong> Enterprise Frameworks, API Engineering & AI Integrations</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/mihirpatel0811.png" width="220px" style="border-radius: 50%; border: 3px solid #A78BFA; box-shadow: 0 4px 20px rgba(167, 139, 250, 0.3);" alt="Mihir Bhayani"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,15 +56,8 @@
 
 ## 📊 GitHub Stats
 
-
-
 <div align="center">
 
-<!--
-  FIX: the old herokuapp.com streak-stats URL is dead (Heroku removed free dynos
-  in Nov 2022), which is why the card wasn't rendering. Using the maintained
-  demolab.com mirror below fixes it.
--->
 <img src="https://streak-stats.demolab.com/?user=mihirpatel0811&theme=radical&hide_border=true&border_radius=10" />
 
 </div>
@@ -63,82 +74,26 @@
 
 <div align="center">
 
-### 🎨 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
----
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
----
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
----
-
-### 🛠️ Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white"/>
-</p>
-
----
-
-### 🚀 API • Build • Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APIdog-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-</p>
-
----
-
-### 🎯 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-FCC624?style=for-the-badge"/>
-</p>
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square) |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellijidea&logoColor=white&style=flat-square) ![PyCharm](https://img.shields.io/badge/-PyCharm-21D789?logo=pycharm&logoColor=white&style=flat-square) |
+| **Build & Deployment** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white&style=flat-square) ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat-square) |
+| **Currently Learning** | ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=springsecurity&logoColor=white&style=flat-square) ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square) ![AI](https://img.shields.io/badge/-AI-412991?logo=openai&logoColor=white&style=flat-square) ![DSA](https://img.shields.io/badge/-DSA-00599C?style=flat-square) |
 
 </div>
+
+---
+
 ## 📂 Featured Areas
 
 <div align="center">
 
 | 🌐 Web Development | ☕ Java Development | 🍃 Spring Boot |
 |:-:|:-:|:-:|
-| 🐘 Laravel Projects | 🤖 Artificial Intelligence | 🗄️ Database Systems |
+| 🐘 Laravel Projects | 🤖 Artificial Intelligence | 🗄&nbsp;Database&nbsp;Systems |
 
 </div>
 
