@@ -48,70 +48,98 @@ I enjoy turning ideas into clean, scalable applications — from custom ERP syst
 
 <br/>
 
-## 💻 Tech Stack & Tools
+# ⚡ Tech Arsenal
+
+---
+
+<table align="center">
+
+<tr>
+
+<td width="50%" align="center">
+
+## 💠 Frontend Universe
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/UI%2FUX-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FF61F6"/>
+
+</td>
+
+<td width="50%" align="center">
+
+## ⚙ Backend Engine
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,python&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/API-RESTful-0D1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+## 🗄 Data Layer
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Database-Design-0D1117?style=for-the-badge&logo=mysql&logoColor=00FFB2"/>
+
+</td>
+
+<td align="center">
+
+## 🚀 Developer Toolkit
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven,pycharm&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Version_Control-Git-0D1117?style=for-the-badge&logo=git&logoColor=FF6A00"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 <div align="center">
 
-<table>
-<tr>
+# 🧠 Development Journey
 
-<td align="center" width="25%">
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind&theme=dark" />
-
-<br><br>
-
-![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,php,laravel,python&theme=dark" />
-
-<br><br>
-
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
-
-<br><br>
-
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-</td>
-
-<td align="center">
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,postman,maven&theme=dark" />
-
-<br><br>
-
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-</td>
-
-</tr>
-</table>
+| Category | Tech |
+|:---------:|------|
+| 💻 Languages | Java • JavaScript • Python • PHP |
+| 🌐 Frontend | HTML5 • CSS3 • React • Bootstrap • Tailwind |
+| ⚡ Backend | Spring Boot • Laravel • Node.js |
+| 🗄 Database | MySQL • MongoDB • SQLite |
+| 🔧 DevOps | Git • GitHub • Maven |
+| 🛠 IDEs | VS Code • IntelliJ IDEA • PyCharm |
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:FF00AA&height=3"/>
+
+### ✨ "Code. Create. Contribute. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=100:00F5FF,50:7C3AED,0:FF00AA&height=3"/>
+
+</div>
 <br/>
 
 ## 📊 GitHub Stats
