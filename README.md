@@ -48,43 +48,67 @@ I enjoy turning ideas into clean, scalable applications — from custom ERP syst
 
 <br/>
 
-## 🧰 Tech Stack
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
-**Frontend**
-<br/>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+<table>
+<tr>
 
-**Backend**
-<br/>
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+<td align="center" width="25%">
 
-**Databases**
-<br/>
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+### 🎨 Frontend
 
-**Tools & Platforms**
-<br/>
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellijidea&logoColor=white&style=flat-square)
-![PyCharm](https://img.shields.io/badge/-PyCharm-21D789?logo=pycharm&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white&style=flat-square)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat-square)
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind&theme=dark" />
+
+<br><br>
+
+![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,php,laravel,python&theme=dark" />
+
+<br><br>
+
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
+
+<br><br>
+
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+</td>
+
+<td align="center">
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,postman,maven&theme=dark" />
+
+<br><br>
+
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
