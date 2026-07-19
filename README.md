@@ -17,7 +17,11 @@
 
 <br/><br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=100:00F5FF,50:7C3AED,0:FF00AA&height=3"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+with+Java+%2B+Spring+Boot+%E2%98%95;Crafting+Full-Stack+Web+Apps+%F0%9F%8C%90;Contributing+to+Open+Source+%F0%9F%8C%B1;Exploring+AI+%2B+System+Design+%F0%9F%A7%A0" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=100:00F5FF,50:7C3AED,0:FF00AA&height=3"/>
+</div>
 
 </div>
 
